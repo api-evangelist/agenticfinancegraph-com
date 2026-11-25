@@ -66,7 +66,7 @@
 
 Agentic Finance Graph is an independent ledger of AI agents that hold, move, and earn real money. It joins identity, wallets, payment flows, policy, vault yield, reputation, and incidents into one object, publishing every number with its definition, chain set, time window, and measurement timestamp. The public site serves as the ledger and the Desk provides monitoring tools.
 
-**Areas:** AI · Finance · Ledger · Blockchain · Payments
+**Areas:** Artificial Intelligence · Finance · Ledger · Blockchain · Payments
 
 ## Agentic Finance Graph on APIs.io
 
@@ -111,11 +111,17 @@ Everything profiled for Agentic Finance Graph is published on APIs.io rather tha
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [agenticfinancegraph-com-mcp.yml](https://apis.io/servers/agenticfinancegraph-com/agenticfinancegraph-com-mcp-yml/)
+
 #### Agentic access (1)
 
 Which operations an agent can call, which act, and which need a human in the loop.
 
-- [Agenticfinancegraph Com Agentic Access](https://apis.io/agentic-access/agenticfinancegraph-com/agenticfinancegraph-com-agentic-access/)
+- [Agentic Finance Graph Agentic Access](https://apis.io/agentic-access/agenticfinancegraph-com/agenticfinancegraph-com-agentic-access/)
 
 #### JSON Schema (3)
 
@@ -141,27 +147,27 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agenticfinancegraph Com Authentication](https://apis.io/security/agenticfinancegraph-com/agenticfinancegraph-com-authentication/)
-- [Agenticfinancegraph Com Domain Security](https://apis.io/security/agenticfinancegraph-com/agenticfinancegraph-com-domain-security/)
-- [Agenticfinancegraph Com Vulnerability Disclosure](https://apis.io/security/agenticfinancegraph-com/agenticfinancegraph-com-vulnerability-disclosure/)
+- [Agentic Finance Graph Authentication](https://apis.io/security/agenticfinancegraph-com/agenticfinancegraph-com-authentication/)
+- [Agentic Finance Graph Domain Security](https://apis.io/security/agenticfinancegraph-com/agenticfinancegraph-com-domain-security/)
+- [Agentic Finance Graph Vulnerability Disclosure](https://apis.io/security/agenticfinancegraph-com/agenticfinancegraph-com-vulnerability-disclosure/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [Agenticfinancegraph Com Scopes](https://apis.io/scopes/agenticfinancegraph-com/agenticfinancegraph-com-scopes/)
+- [Agentic Finance Graph Scopes](https://apis.io/scopes/agenticfinancegraph-com/agenticfinancegraph-com-scopes/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Agenticfinancegraph Com Plans Pricing](https://apis.io/plans/agenticfinancegraph-com/agenticfinancegraph-com-plans-pricing/)
+- [Agentic Finance Graph Plans Pricing](https://apis.io/plans/agenticfinancegraph-com/agenticfinancegraph-com-plans-pricing/)
 
 #### Rate limits (1)
 
 Published request limits.
 
-- [Agenticfinancegraph Com Rate Limits](https://apis.io/rate-limits/agenticfinancegraph-com/agenticfinancegraph-com-rate-limits/)
+- [Agentic Finance Graph Rate Limits](https://apis.io/rate-limits/agenticfinancegraph-com/agenticfinancegraph-com-rate-limits/)
 
 ## Where to find this API
 
@@ -178,23 +184,23 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 42.2** — developing · rubric 0.26.0 · scored 2026-11-01
+**Kin Score 38.7** — thin · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 66.7 |
-| Contract quality | 54.1 |
-| Contract governance | 70.9 |
-| Operational transparency | 15.8 |
+| Discoverability | 83.3 |
+| Contract quality | 54.8 |
+| Contract governance | 19.7 |
+| Operational transparency | 14.3 |
 | Developer ergonomics | 18.3 |
-| Access clarity | 31.6 |
+| Access clarity | 40.4 |
 
-**Agent readiness 38.6** — agent-ready
+**Agent readiness 33.7** — agent-ready
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | yes |
-| Agentic Access | unknown |
+| Agentic Access | derived (partial credit) |
 | Reversibility Documented | — |
 | MCP Server | documented (partial credit) |
 | Auth Clarity | — |
@@ -215,6 +221,9 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | na |
 | Operation Distinctiveness | distinct |
 | MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
 **Regulatory alignment 29.2** — Payments
 
